@@ -1,0 +1,18 @@
+.foot{
+    background-image:url('../../../assets/images/more/13.jpg') ;
+    /* height: 80vh; */
+    background-position: center;
+    background-size: cover;
+}
+.foot_down{
+    background-image:url('../../../assets/images/more/24.jpg') ;
+    /* height: 80vh; */
+    background-position: center;
+    background-size: cover;
+}
+.coffeeCard{
+    background-image:url('../../../assets/images/more/11.png') ;
+    /* height: 80vh; */
+    background-position: center;
+    background-size: cover;
+}
