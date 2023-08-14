@@ -22,12 +22,12 @@ const CoffeeCard = () => {
             </div>
             {/* main coffeeCard content */}
             <div className="coffeeCard"> 
-            <div  className="max-w-screen-xl mx-auto pt-32 px-3">
+            <div  className="max-w-screen-xl mx-auto py-12 px-3 ">
 
             <Link to='/' className="font-semibold text-[#374151] flex items-center gap-3"><FaArrowLeft></FaArrowLeft> Back To Home</Link>
             </div>
 
-                <div className="md:flex items-center gap-20 max-w-screen-xl mx-auto">
+                <div className="md:flex items-center gap-20 max-w-screen-xl mx-auto bg-[#F4F3F0]">
                     <div className="w-full ">
                         <img className="md:w-3/4 w-full px-3 mx-auto" src={photo} alt="" />
                     </div>

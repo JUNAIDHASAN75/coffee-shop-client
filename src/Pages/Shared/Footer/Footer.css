@@ -16,3 +16,9 @@
     background-position: center;
     background-size: cover;
 }
+.popular_bg{
+    background-image:url('../../../assets/images/more/1.png') ;
+    /* height: 80vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -5,7 +5,7 @@ import Coffees from "./Coffees/Coffees";
 
 const Popular = () => {
     return (
-        <div className="mt-32 " >
+        <div className="mt-32 popular_bg" >
             <Header title={'Our Popular Products'} subTitle={'--- Sip & Savor ---'}></Header>
             <div className="flex justify-center mt-2">
 
